@@ -3932,6 +3932,16 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+    {
+       "id": 230,
+       "name": "Gazab ka hai din",
+       "lyrics": "https://www.jiosaavn.com/song/gazab-ka-hai-din/GBAqHBlIRXs",
+       "album": "Dil Juunglee",
+       "Duration": "4 min 19 sec",
+       "singer": [" Jubin Nautiyal", "Prakriti Kakar" ],
+       "genre": ["Romantic","Indian Film Pop" ],
+       "link": "https://youtu.be/_0CFtvtxoXU"
     }
     
     ]
