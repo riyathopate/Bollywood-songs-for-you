@@ -32,6 +32,23 @@
           ],
           "link": "https://youtu.be/fXRvluHnjxE"
        },
+        {
+          "id": 169,
+          "name": "Ek Dil Hain EK Jahhan Hain",
+          "lyrics": "https://www.lyricsnut.com/hindi/lyrics-hindi/273-ek-dil-ek-jaan-padmavati.html",
+          "album": "Padmavat",
+          "Duration": "4 min 40 sec",
+          "singer": [
+             "Arijit Singh",
+
+          ],
+          "genre": [
+             "Romantic",
+             "slow",
+             "lofi"
+          ],
+          "link": "https://www.youtube.com/watch?v=c64I9HNpiOY"
+       },
        {
           "id": 3,
           "name": "Sajde",
